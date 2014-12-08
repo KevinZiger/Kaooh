@@ -1,9 +1,11 @@
-package com.ziger.kaooh;
+package com.ziger.kaooh.activities;
 
 import android.app.Activity;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
+
+import com.ziger.kaooh.R;
 
 
 public class MainActivity extends Activity {
