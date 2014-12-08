@@ -1,0 +1,9 @@
+# Created by .gitignore support plugin (hsz.mobi)
+.idea
+build
+gradle
+gradlew
+Kaooh.iml
+local.properties
+gradlew.bat
+gradle.properties
