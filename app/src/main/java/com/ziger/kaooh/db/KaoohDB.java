@@ -84,7 +84,7 @@ public class KaoohDB {
                         .getColumnIndex("city_name")));
                 city.setCityCode(cursor.getString(cursor
                         .getColumnIndex("city_code")));
-                city.setProvinceId(String.valueOf(provinceId));
+                city.setProvinceId(provinceId);
                 list.add(city);
             } while (cursor.moveToNext());
         }
